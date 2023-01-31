@@ -1,0 +1,15 @@
+C:\Сергей\GIK\C#\Семинары\C# Seminar 4\Task 26\obj\Debug\net7.0\Task 26.csproj.AssemblyReference.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 4\Task 26\obj\Debug\net7.0\Task 26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Сергей\GIK\C#\Семинары\C# Seminar 4\Task 26\obj\Debug\net7.0\Task 26.AssemblyInfoInputs.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 4\Task 26\obj\Debug\net7.0\Task 26.AssemblyInfo.cs
+C:\Сергей\GIK\C#\Семинары\C# Seminar 4\Task 26\obj\Debug\net7.0\Task 26.csproj.CoreCompileInputs.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 4\Task 26\bin\Debug\net7.0\Task 26.exe
+C:\Сергей\GIK\C#\Семинары\C# Seminar 4\Task 26\bin\Debug\net7.0\Task 26.deps.json
+C:\Сергей\GIK\C#\Семинары\C# Seminar 4\Task 26\bin\Debug\net7.0\Task 26.runtimeconfig.json
+C:\Сергей\GIK\C#\Семинары\C# Seminar 4\Task 26\bin\Debug\net7.0\Task 26.dll
+C:\Сергей\GIK\C#\Семинары\C# Seminar 4\Task 26\bin\Debug\net7.0\Task 26.pdb
+C:\Сергей\GIK\C#\Семинары\C# Seminar 4\Task 26\obj\Debug\net7.0\Task 26.dll
+C:\Сергей\GIK\C#\Семинары\C# Seminar 4\Task 26\obj\Debug\net7.0\refint\Task 26.dll
+C:\Сергей\GIK\C#\Семинары\C# Seminar 4\Task 26\obj\Debug\net7.0\Task 26.pdb
+C:\Сергей\GIK\C#\Семинары\C# Seminar 4\Task 26\obj\Debug\net7.0\Task 26.genruntimeconfig.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 4\Task 26\obj\Debug\net7.0\ref\Task 26.dll

@@ -1,0 +1,15 @@
+C:\Сергей\GIK\C#\Семинары\C# Seminar 4\HW Task 29\obj\Debug\net7.0\HW Task 29.csproj.AssemblyReference.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 4\HW Task 29\obj\Debug\net7.0\HW Task 29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Сергей\GIK\C#\Семинары\C# Seminar 4\HW Task 29\obj\Debug\net7.0\HW Task 29.AssemblyInfoInputs.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 4\HW Task 29\obj\Debug\net7.0\HW Task 29.AssemblyInfo.cs
+C:\Сергей\GIK\C#\Семинары\C# Seminar 4\HW Task 29\obj\Debug\net7.0\HW Task 29.csproj.CoreCompileInputs.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 4\HW Task 29\bin\Debug\net7.0\HW Task 29.exe
+C:\Сергей\GIK\C#\Семинары\C# Seminar 4\HW Task 29\bin\Debug\net7.0\HW Task 29.deps.json
+C:\Сергей\GIK\C#\Семинары\C# Seminar 4\HW Task 29\bin\Debug\net7.0\HW Task 29.runtimeconfig.json
+C:\Сергей\GIK\C#\Семинары\C# Seminar 4\HW Task 29\bin\Debug\net7.0\HW Task 29.dll
+C:\Сергей\GIK\C#\Семинары\C# Seminar 4\HW Task 29\bin\Debug\net7.0\HW Task 29.pdb
+C:\Сергей\GIK\C#\Семинары\C# Seminar 4\HW Task 29\obj\Debug\net7.0\HW Task 29.dll
+C:\Сергей\GIK\C#\Семинары\C# Seminar 4\HW Task 29\obj\Debug\net7.0\refint\HW Task 29.dll
+C:\Сергей\GIK\C#\Семинары\C# Seminar 4\HW Task 29\obj\Debug\net7.0\HW Task 29.pdb
+C:\Сергей\GIK\C#\Семинары\C# Seminar 4\HW Task 29\obj\Debug\net7.0\HW Task 29.genruntimeconfig.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 4\HW Task 29\obj\Debug\net7.0\ref\HW Task 29.dll
